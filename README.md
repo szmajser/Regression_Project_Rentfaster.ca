@@ -6,6 +6,7 @@ This project analyzes information from containing rental prices for units in acr
 ## Data Source
 Dataset obtained from rentfaster.ca:
 - https://www.rentfaster.ca/?utm_source=OOH&utm_medium=sign&utm_campaign=ca
+
 The data dictionary can be found here:
 - https://www.kaggle.com/datasets/sergiygavrylov/25000-canadian-rental-housing-market-june-2024
 
